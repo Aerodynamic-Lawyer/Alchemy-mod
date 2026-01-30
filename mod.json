@@ -1,0 +1,10 @@
+name: "alchemy-mod"
+displayName: "[red[]]Alchemy mod[[]]"
+author: "Aerodynamic Attorney"
+description:
+'''
+alchimi
+'''
+subtitle: "[red[]]Solve et Coagula[[]]"
+minGameVersion: 153
+repo: Aerodynamic-lawyer/Alchemy-mod
